@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-setup.cfg
-flashcards/__init__.py
-flashcards_dinazoe.egg-info/PKG-INFO
-flashcards_dinazoe.egg-info/SOURCES.txt
-flashcards_dinazoe.egg-info/dependency_links.txt
-flashcards_dinazoe.egg-info/top_level.txt
